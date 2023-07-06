@@ -1,0 +1,4 @@
+#!/bin/bash
+if [ "$(sd -c %U hello)" = "betty" ]; then
+chown age hello
+fi
