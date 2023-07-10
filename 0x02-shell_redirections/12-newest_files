@@ -1,2 +1,2 @@
 #!/bin/bash
-ls . -Artls |sort -n| tail 
+ls -t | head -10
