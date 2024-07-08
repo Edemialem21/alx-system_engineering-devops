@@ -11,7 +11,7 @@ frontend front
 
 backend back
     balance roundrobin
-    server 32024-web-01 44.192.38.74:80 check
-    server 32024-web-02 35.174.176.158:80 check
+    server 487899-web-01 54.158.186.150:80 check
+    server 487899-web-02 34.224.1.185:80 check
 EOF
 service haproxy restart
