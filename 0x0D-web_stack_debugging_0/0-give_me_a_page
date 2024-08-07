@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# the following commands debuging the docker container to serve as webserver 'Hello Holberton'
+# the following commands debuging the docker container to serve as webserver 'Hell'
 
 apt-get update
 apt-get install apache2
